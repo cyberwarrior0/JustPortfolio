@@ -1,0 +1,245 @@
+.main-container
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.container2{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    background-image:url("back.jpg");
+    background-position: right;
+    background-size: 100%;
+    background-repeat: repeat;
+    
+}
+.a{
+    padding-top: 10px;
+    padding-bottom: px;
+    padding-left: 20px;
+    height: 130px;
+    width: 100px;
+    flex-shrink:1;
+    
+}
+#dp{
+   max-height: 100%;
+   max-width: 100%;
+   border: 1px solid white;
+
+}
+.b{
+    padding-left: 20px;
+    padding-top: 60px;
+    text-align: center;
+    font-size: 300%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    flex-shrink:4;
+}
+.q{
+    
+    text-align: left;
+    font-size: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    flex-shrink:4;
+}
+
+.container3{
+
+    text-align: center;
+    font-size: 125%;
+    width: 100%;
+    display: flex;
+    background-color:#001B3A;
+    color: white;
+  
+
+    }
+a{
+	text-decoration:none;
+	color: #fff;
+}
+a:hover{
+    opacity: 0.3;
+}
+.c a {
+    opacity: 0.3;
+}
+.c{
+    flex-shrink:25%;
+    padding: 3px;
+    padding-left: 10px;
+    margin: 10px ;
+}
+.d{
+    flex-shrink:25%;
+    padding: 3px;
+    margin: 10px;
+}
+.e{
+    flex-shrink:25%;
+    padding: 3px;
+    margin: 10px;
+}
+
+.f{
+    flex-shrink:25%;
+    padding: 3px;
+    margin: 10px;
+}
+.g{
+    flex-shrink:25%;
+    padding: 3px;
+    margin: 10px;
+}
+
+.image{
+    display: flex;
+    width: 100%;
+    height:500px;
+    display: flex;
+    text-align: center;
+    position: relative;
+} 
+
+#banner{
+    width: 100%;
+    height: 100%;
+   
+}
+.em{
+    display: flex;
+    position: absolute;
+    color: white;
+    top:10%;
+    left: 2%;
+    font-size: 2em;
+    text-shadow: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cn{
+    display: flex;
+    position: absolute;
+    color: white;
+    top:20%;
+    left:2%;
+    font-size: 2em;
+    text-shadow: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pa
+{
+    display: flex;
+    position: absolute;
+    color: white;
+    top:10%;
+    left: 2%;
+    right: 2%;
+    font-size: 1.5em;
+    text-align: justify;
+    text-shadow: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skills{
+    position:absolute;  
+    display: flex;
+    color: white;
+    top:40%;
+    left:25%;
+    right: 25%;
+    font-size: 1.5em;
+    text-shadow: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+.skills1{
+    margin-right: 20%;
+    width: 125px;
+    height:125px;
+    color: white;
+   
+}
+#htm{
+    width: 100%;
+    height: 100%;
+}
+.skills2{
+    margin-right: 20%;
+    width: 125px;
+    height:125px;
+    color: white;
+   
+}
+#htm2{
+    width: 100%;
+    height: 100%;
+}
+.skills3{
+    width: 125px;
+    height:125px;
+    color: white;
+   
+}
+#htm3{
+    width: 100%;
+    height: 100%;
+}
+
+.skills22{
+    position:absolute;  
+    display: flex;
+    color: white;
+    top:70%;
+    left: 26%;
+    right: 25%;
+    font-size: 1.5em;
+    text-shadow: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+.skills4{
+    margin-right: 25%;
+    width: 125px;
+    height:125px;
+    color: white;
+   
+}
+#htm4{
+    width: 100%;
+    height: 100%;
+}
+.skills5{
+    margin-right: 30%;
+    width: 125px;
+    height:125px;
+    color: white;
+   
+}
+#htm5{
+    width: 100%;
+    height: 100%;
+}
+.skills6{
+    margin-right: 20%;
+    width: 125px;
+    height:125px;
+    color: white;
+   
+}
+#htm6{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
